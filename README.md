@@ -1,2 +1,2 @@
 # First
-Naxter-PROG
+Nataniel: Versjon 1
